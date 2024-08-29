@@ -1,0 +1,12 @@
+{
+  "name": "vue-waterfall",
+  "version": "1.0.0",
+  "description": "基于Vue3的瀑布流UI组件。 Waterfall UI for Vue3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
